@@ -102,6 +102,6 @@ Unlike many similar research or student projects, **this project stands out due 
 - Google Colab (Training & Development)  
 - GitHub (Version Control & Hosting)
 
-💡 Note
+💡 Note:
 GitHub cannot display the full notebook because it’s >25MB.  
 Use the **Colab badge above** ☝️ to view the complete notebook including outputs.
